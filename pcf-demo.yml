@@ -1,2 +1,4 @@
 spring:
   message: "Hello pcf-demo user"
+  jpa:
+    generate-ddl: true
