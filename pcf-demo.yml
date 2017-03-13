@@ -1,7 +1,4 @@
-spring:
-  message: "Hello pcf-demo user"
-  jpa:
-    generate-ddl: true
+---
 server:
   port: 8802
 eureka:
